@@ -1,0 +1,18 @@
+.header-wrapper{
+    display :flex;
+    align-items: center;
+    border-bottom: 1px solid black;
+    height: 8vh;
+}
+.header-wrapper > button{
+    border:0;
+    width:auto;
+    height: 8vh;
+    border-left: 1px solid black;
+    font-size: 20px;
+    cursor: pointer;
+}
+.header-wrapper>h2{
+    margin-left: 80px;
+    margin-right: 74%;
+}
